@@ -1,9 +1,10 @@
 #Quem sou EU?
 
-
+<a href="https://dev-joao-dev.github.io/who-am-I/">
 <img src="./ASSETS/print image who i am.png" alt="project print">
+</a>
 
-> Meu primeiro projeto HTML, estilizado com CSS.
+> Meu primeiro projeto HTML, estilizado com CSS, Clique na imagem para acessar o projeto ou Clique no link : https://dev-joao-dev.github.io/who-am-I/.
 
 ### O projeto foi um dos meus primeiros, nele aprendi:
 
