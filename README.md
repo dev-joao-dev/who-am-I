@@ -5,9 +5,9 @@
 
 > Meu primeiro projeto HTML, estilizado com CSS.
 
-### Ajustes e melhorias
+### O projeto foi um dos meus primeiros, nele aprendi:
 
-O projeto foi um dos meus primeiros, nele aprendi:
+
 
 - [x] HTML
 - [x] CSS
